@@ -1,0 +1,17 @@
+{
+  "name": "shortenstring",
+  "version": "1.0.0",
+  "description": "Codility Question Shorten String",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Stone Wei",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
